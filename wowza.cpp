@@ -4,9 +4,8 @@ using namespace std;
 int main()
 {
    cout << "Wow, GitHub is actually working." << endl;
-   cout << "This was written in the bracnh feature1." << endl;
-   cout << "Cmon please work!!" << endl;
-
+   cout << "Nanananananan BATMANNN" << endl;
+   cout << "Its getting late, and im getting delirious, not really its only 12 AM" << endl;
 
    return 0;
 }
